@@ -1,5 +1,5 @@
 # DjanBlog
-Blog made by using Django Framework
+Blog under development with Django
 
 
 ## To see the blog
